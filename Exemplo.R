@@ -1,3 +1,0 @@
-#comment
-#amem
-#aeluia
